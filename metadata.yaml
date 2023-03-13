@@ -1,0 +1,9 @@
+homepage: "https://sportradar.com"
+documentation: "https://github.com/ads-marketing-cloud/ct-sportradar-registration-finished-event"
+versions:
+ # Latest version
+ - sha: 1ad175fb62c7db2b56e691f502a5d0be19d2dfc3
+   changeNotes: Create initial template.
+ # Older versions
+ - sha: b7563010c91a8f0544f4e369199f03cf340ed6e5
+   changeNotes: Create repository.
